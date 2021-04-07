@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/start_shopping"
+        android:icon="@drawable/house"
+        android:title="Start shopping" />
+    <item
+        android:id="@+id/my_orders"
+        android:icon="@drawable/ic_stopwatch_white"
+        android:title="My Orders" />
+    <item
+        android:id="@+id/address_book"
+        android:icon="@drawable/ic_address"
+        android:title="Address Book" />
+    <item
+        android:id="@+id/contact_us"
+        android:icon="@drawable/ic_contact_us"
+        android:title="Contact us" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+    <item
+        android:id="@+id/share_app"
+        android:icon="@drawable/ic_share"
+        android:title="Share app" />
+</menu>
